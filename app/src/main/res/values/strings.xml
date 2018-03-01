@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstOpencvApp</string>
+    <string name="action_load_image">loadImage</string>
+</resources>
